@@ -1,6 +1,6 @@
 # Word Embeddings in Python
 
-The different types of word embeddings can be broadly classified into two categories-
+There are different types of word embeddings that can be broadly classified into two categories-
 
  1. Frequency based Embedding : There are generally three types of vectors that we encounter under this category,
     * Count Vector
